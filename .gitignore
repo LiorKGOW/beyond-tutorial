@@ -130,3 +130,6 @@ dmypy.json
 
 # Vagrant
 .vagrant
+
+# Addition from part 3- task 9 commiting
+nohup.out
