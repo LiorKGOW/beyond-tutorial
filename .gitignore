@@ -133,3 +133,6 @@ dmypy.json
 
 # Addition from part 3- task 9 commiting
 nohup.out
+
+# Addition feom Part 5- task 6 Running the database Migrations
+db.sqlite3
